@@ -2,8 +2,8 @@
 
 ![Alt Text](https://media.giphy.com/media/RVuNZB864BeVy/giphy.gif)
 <br>
+
 ## 👩‍💻 Digital Content Manager on full time, Programming Student on part time
-- 💪🏻 Just finished a Full Stack Web Development course
 <p align="left" dir="auto">
     <a href="https://www.w3.org/html/" rel="nofollow">
     <img
@@ -99,6 +99,7 @@
     />
   </a>
  </p>
+- 💪🏻 Just finished a Full Stack Web Development course <br>
 - 🤓 I’m currently learning Java and SQL (Python and Outsystems are next)<br>          
 - 🤫 3 curiosities about me: Kickboxing is my favourite hobby; I like retro and board games; I dream of having a farm;
 <br><br>
@@ -110,6 +111,6 @@
   </div>
   <br>
 
-### 📈 My most used languages:
+### 📈 Most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nfernandes89&layout=compact)](https://github.com/nfernandes89/github-readme-stats)
 <br>
