@@ -101,7 +101,7 @@
  </p>
 - 🤓 I’m currently learning Java and SQL (Python and Outsystems are next)<br>          
 - 🤫 3 curiosities about me: Kickboxing is my favourite hobby; I like retro and board games; I dream of having a farm;
-<br>
+<br><br>
 
 ### 🔎 Do you want to know more about me?
 <div>
