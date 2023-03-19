@@ -1,7 +1,7 @@
 # 🙋🏼‍♀️ Hi there, I'm Nélia Fernandes
 
 ![Alt Text](https://media.giphy.com/media/RVuNZB864BeVy/giphy.gif)
-
+<br>
 ## 👩‍💻 Digital Content Manager on full time, Programming Student on part time
 - 💪🏻 Just finished a Full Stack Web Development course
 <p align="left" dir="auto">
@@ -99,7 +99,7 @@
     />
   </a>
  </p>
-- 🤓 I’m currently learning Java and SQL (Python and Outsystems are next)          
+- 🤓 I’m currently learning Java and SQL (Python and Outsystems are next)<br>          
 - 🤫 3 curiosities about me: Kickboxing is my favourite hobby; I like retro and board games; I dream of having a farm;
 <br>
 
@@ -113,7 +113,3 @@
 ### 📈 My most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nfernandes89&layout=compact)](https://github.com/nfernandes89/github-readme-stats)
 <br>
-
-
-     
-![Snake animation](https://github.com/nfernandes89/nfernandes89/blob/output/github-contribution-grid-snake.svg)
