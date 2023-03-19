@@ -3,7 +3,7 @@
 ![Alt Text](https://media.giphy.com/media/RVuNZB864BeVy/giphy.gif)
 <br>
 
-## 👩‍💻 Digital Content Manager on full time, Programming Student on part time
+## 👩‍💻 Digital Content Manager on full time, Programming Student on part time (for now)
 <p align="left" dir="auto">
     <a href="https://www.w3.org/html/" rel="nofollow">
     <img
