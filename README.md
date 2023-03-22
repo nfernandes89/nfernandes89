@@ -1,4 +1,4 @@
-# 🙋🏼‍♀️ Hi there, I'm Nélia Fernandes
+# 🙋🏼‍♀️ Hi there, I'm Nélia
 
 ![Alt Text](https://media.giphy.com/media/RVuNZB864BeVy/giphy.gif)
 <br>
@@ -100,8 +100,8 @@
   </a>
  </p>
 - 💪🏻 Just finished a Full Stack Web Development course <br>
-- 🤓 I’m currently learning Java and SQL (next: Python and Outsystems)<br>          
-- 🤫 3 curiosities about me: Kickboxing is my favourite hobby; I like retro and board games; I dream of having a farm;
+- 🤓 I’m currently learning Java and SQL (next: Python)<br>          
+- 🤫 3 curiosities about me: Kickboxing is my favourite hobby; I like retro and board games; I dream of having a farm
 <br><br>
 
 ### 🔎 Do you want to know more about me?
