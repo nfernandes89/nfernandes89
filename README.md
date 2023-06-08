@@ -32,6 +32,15 @@
       style="max-width: 100%"
     />
   </a>
+         <a href="https://getbootstrap.com" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     rel="nofollow"
@@ -98,10 +107,10 @@
       style="max-width: 100%"
     />
   </a>
-     <a href="https://getbootstrap.com" rel="nofollow">
+       <a href="https://www.figma.com/" rel="nofollow">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
+      src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+      alt="figma"
       width="40"
       height="40"
       style="max-width: 100%"
