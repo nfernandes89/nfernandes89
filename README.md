@@ -98,9 +98,18 @@
       style="max-width: 100%"
     />
   </a>
+     <a href="https://getbootstrap.com" rel="nofollow">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
  </p>
 - 💪🏻 Just finished a Full Stack Web Development course <br>
-- 🤓 I’m currently learning OutSystems and SQL (next: Python)<br>          
+- 🤓 I’m currently learning SQL (next: Python)<br>          
 - 🤫 3 curiosities about me: Kickboxing is my favourite hobby; I like retro and board games; I dream of having a farm
 <br><br>
 
